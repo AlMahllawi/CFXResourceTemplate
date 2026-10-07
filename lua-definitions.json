@@ -1,0 +1,14 @@
+{
+  "target_dir": "./definitions_vendor",
+  "sources": [
+    {
+      "id": "oxmysql",
+      "owner": "overextended",
+      "repo": "ox_types",
+      "ref": "main",
+      "paths": [
+        { "path": "library/oxmysql/server.lua" }
+      ]
+    }
+  ]
+}
